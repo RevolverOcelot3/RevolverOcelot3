@@ -1,6 +1,6 @@
 # Hi there, I'm Juan Corvera 👋
 
-I'm a Software Engineer graduated from **Tecnológico Nacional de México, Campus Culiacán**, currently working at **Díaz Salazar y Asociados**. 
+I'm a Software Engineer graduated from **Tecnológico Nacional de México, Campus Culiacán**, currently working.
 
 I focus on building reliable backend architectures and efficient relational database systems, while actively expanding my skill set across full-stack modern web technologies.
 
