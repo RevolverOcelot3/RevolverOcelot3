@@ -8,7 +8,7 @@ I focus on building reliable backend architectures and efficient relational data
 
 ### 🚀 About Me
 
-- 💼 **Current Role:** Software Developer at **Díaz Salazar y Asociados**
+- 💼 **Current Role:** Software Developer.
 - 🎓 **Education:** B.S. in Computer Systems Engineering — *Instituto Tecnológico de Culiacán*
 - 🛠️ **Core Focus:** Backend architecture, database design, and API development
 - 🌱 **Currently Learning:** Modern full-stack development with Angular, NestJS, PostgreSQL, and TypeScript
