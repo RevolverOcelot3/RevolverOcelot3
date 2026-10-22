@@ -37,10 +37,10 @@ I focus on building reliable backend architectures and efficient relational data
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/juan-marcos-corvera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@example.com">
+  <a href="mailto:juan.corvera.360@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
